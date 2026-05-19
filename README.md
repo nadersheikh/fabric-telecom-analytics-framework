@@ -27,16 +27,16 @@ The framework simulates operational PM/KPI ingestion workflows commonly used in 
 ---
 ## Dashboard Preview
 ### Home Dashboard
-![Home](home.png)
+![Home](screenshots/home.png)
 
 ### Access & Retain Analysis
-![Access & Retain](access_retain.png)
+![Access & Retain](screenshots/access_retain.png)
 
 ### Capacity Congestion Analysis
-![Capacity Congestion](capacity_cong.png)
+![Capacity Congestion](screenshots/capacity_cong.png)
 
 ### Downlink Throughput Analysis
-![DL Throughput](dl_tp_analysis.png)
+![DL Throughput](screenshots/dl_tp_analysis.png)
 ## Technologies Used
 
 - Microsoft Fabric
